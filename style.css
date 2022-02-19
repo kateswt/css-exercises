@@ -1,0 +1,25 @@
+/* style.css */
+
+.pink-black {
+    color: rgb(15, 14, 14);
+    background-color: rgb(209, 127, 127);
+    font-size: 14px;
+    font-family: sans-serif, Helvetica
+}
+
+.big-font {
+    font-size: 22px
+}
+
+#two {
+    color: rgb(28, 63, 180);
+    font-size: 26px;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+#four {
+    background-color: rgb(131, 206, 116);
+    color: rgb(15, 14, 14);
+    font-weight: 700;
+    font-size: 14px
+}
